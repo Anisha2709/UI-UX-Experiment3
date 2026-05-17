@@ -39,7 +39,8 @@ To evaluate and compare the user experience (UX) of Goodreads and Amazon Kindle 
    Prepare report with evaluation, comparison, design changes, and results.
 
 ## Output:
-<img width="420" alt="1" src="https://github.com/user-attachments/assets/2b96aa15-98e5-4767-8937-365ec5658a0f" />  <img width="420" alt="2" src="https://github.com/user-attachments/assets/589bfe9f-ad61-49c8-929f-95ce50b8e753" />
+<img width="420" alt="1" src="https://github.com/user-attachments/assets/2b96aa15-98e5-4767-8937-365ec5658a0f" />  
+<img width="420" alt="2" src="https://github.com/user-attachments/assets/589bfe9f-ad61-49c8-929f-95ce50b8e753" />
 <img width="420" alt="3" src="https://github.com/user-attachments/assets/35b7b8f2-1b1e-40e2-a9e4-619ae0a994dc" />
 <img width="420" alt="4" src="https://github.com/user-attachments/assets/eaa8b9aa-c99a-482c-9deb-c46d8fb28632" />
 <img width="420" alt="5" src="https://github.com/user-attachments/assets/162793cf-f2fe-4d04-9625-7bf7739dd29d" />
